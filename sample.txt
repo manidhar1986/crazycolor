@@ -1,1 +1,2 @@
 added line to push to remote repo
+added line after checking out to feature testing branch [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Cfeaturetesting branch strategy
